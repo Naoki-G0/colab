@@ -1,6 +1,8 @@
 <template>
  <div>
-  <h1>Hello World of Programming!</h1>
+  <h1>Hello World of Programming!
+      Good!
+  </h1>
   <NLink to="/about">
    About Page
   </NLink>
