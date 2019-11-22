@@ -1,6 +1,6 @@
 <template>
  <div>
-  <h1>What is Co-Lab?   
+  <h1>Basic Searchm
   </h1>
   <NLink to="/">
    Top Page

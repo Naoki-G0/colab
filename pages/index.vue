@@ -1,14 +1,29 @@
 <template>
  <div>
-  <h1>Hello World of Programming!
-      Good!
+  <h1>Welcome to Co-Lab
   </h1>
   <NLink to="/about">
-   About Page
+   What is Co-Lab?
   </NLink>
   <br>
-  <NLink to="/profile">
-   Profile
+  <NLink to="/search">
+   Basic Search
+  </NLink>
+  <br>
+  <NLink to="/register">
+   Register
+  </NLink>
+  <br>
+  <NLink to="/login">
+   Login
+  </NLink>
+  <br>
+  <NLink to="/faq">
+   FAQ
+  </NLink>
+  <br>
+  <NLink to="/contact">
+   Contact us
   </NLink>
  </div>
 </template>
